@@ -1,0 +1,14 @@
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\bin\Debug\netcoreapp2.2\ReceiptManagement.deps.json
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\bin\Debug\netcoreapp2.2\ReceiptManagement.runtimeconfig.json
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\bin\Debug\netcoreapp2.2\ReceiptManagement.runtimeconfig.dev.json
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\bin\Debug\netcoreapp2.2\ReceiptManagement.dll
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\bin\Debug\netcoreapp2.2\ReceiptManagement.pdb
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\obj\Debug\netcoreapp2.2\ReceiptManagement.csprojAssemblyReference.cache
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\obj\Debug\netcoreapp2.2\ReceiptManagement.csproj.CoreCompileInputs.cache
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\obj\Debug\netcoreapp2.2\ReceiptManagement.RazorAssemblyInfo.cache
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\obj\Debug\netcoreapp2.2\ReceiptManagement.RazorAssemblyInfo.cs
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\obj\Debug\netcoreapp2.2\ReceiptManagement.AssemblyInfoInputs.cache
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\obj\Debug\netcoreapp2.2\ReceiptManagement.AssemblyInfo.cs
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\obj\Debug\netcoreapp2.2\ReceiptManagement.RazorTargetAssemblyInfo.cache
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\obj\Debug\netcoreapp2.2\ReceiptManagement.dll
+C:\Users\isc\source\repos\ReceiptManagement\ReceiptManagement\obj\Debug\netcoreapp2.2\ReceiptManagement.pdb
